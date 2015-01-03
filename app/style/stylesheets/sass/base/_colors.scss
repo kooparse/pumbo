@@ -1,0 +1,20 @@
+$dark-gray: #304650;
+
+
+.bg-dark-gray {
+  background-color: $dark-gray;
+}
+
+.dark-gray {
+  color: $dark-gray;
+}
+
+
+a {
+  color: $dark-gray;
+}
+
+a:hover {
+  text-decoration: none;
+  color: #333;
+}

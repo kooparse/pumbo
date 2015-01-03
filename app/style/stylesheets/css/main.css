@@ -1,0 +1,21 @@
+/* BASE */
+/* line 4, /Users/alex/Documents/dev/pumbo/app/style/stylesheets/sass/base/colors */
+.bg-dark-gray {
+  background-color: #304650; }
+
+/* line 8, /Users/alex/Documents/dev/pumbo/app/style/stylesheets/sass/base/colors */
+.dark-gray {
+  color: #304650; }
+
+/* line 13, /Users/alex/Documents/dev/pumbo/app/style/stylesheets/sass/base/colors */
+a {
+  color: #304650; }
+
+/* line 17, /Users/alex/Documents/dev/pumbo/app/style/stylesheets/sass/base/colors */
+a:hover {
+  text-decoration: none;
+  color: #333; }
+
+/* COMPONENTS */
+
+/*# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbImJhc2UvX2NvbG9ycy5zY3NzIl0sIm5hbWVzIjpbXSwibWFwcGluZ3MiOiI7O0FBR0E7RUFDRSxrQkFKVTs7O0FBT1o7RUFDRSxPQVJVOzs7QUFZWjtFQUNFLE9BYlU7OztBQWdCWixDQUFDO0VBQ0MsaUJBQWlCO0VBQ2pCLE9BQU8iLCJmaWxlIjoibWFpbi5jc3MiLCJzb3VyY2VzQ29udGVudCI6WyIkZGFyay1ncmF5OiAjMzA0NjUwO1xuXG5cbi5iZy1kYXJrLWdyYXkge1xuICBiYWNrZ3JvdW5kLWNvbG9yOiAkZGFyay1ncmF5O1xufVxuXG4uZGFyay1ncmF5IHtcbiAgY29sb3I6ICRkYXJrLWdyYXk7XG59XG5cblxuYSB7XG4gIGNvbG9yOiAkZGFyay1ncmF5O1xufVxuXG5hOmhvdmVyIHtcbiAgdGV4dC1kZWNvcmF0aW9uOiBub25lO1xuICBjb2xvcjogIzMzMztcbn1cbiJdLCJzb3VyY2VSb290IjoiL3NvdXJjZS8ifQ== */
